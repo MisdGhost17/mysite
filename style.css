@@ -1,0 +1,717 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Slab&display=swap');
+
+@media (min-width: 834px) and (max-width: 1279px) {
+    .mob_logo{
+        width: 64.87px;
+        height: 38.23px;
+        left: 70.08px;
+        top: 22px;
+    }
+
+    .globe img{
+        width: 12.74px;
+        height: 12.16px;
+        left: 70.08px;
+        top: 116.4px;
+    }
+
+    .globe p{
+        width: 75.29px;
+        height: 18.53px;
+        left: 87.45px;
+        top: 118.14px;
+
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 115%;
+    }
+        
+    .clock img{
+        width: 12.74px;
+        height: 12.74px;
+        left: 177.23px;
+        top: 115.83px;
+    }
+
+    .clock p{
+        width: 75.29px;
+        height: 18.53px;
+        left: 195.76px;
+        top: 118.14px;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 115%;
+    }
+
+    .calendar img{
+        width: 11.58px;
+        height: 12.74px;
+        left: 270.47px;
+        top: 115.83px;
+    }
+
+    .calendar p{
+        width: 75.29px;
+        height: 18.53px;
+        left: 289.58px;
+        top: 118.14px;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 115%;
+    }
+
+    h1{
+        width: 363.72px;
+        height: 110.04px;
+        left: 70.66px;
+        top: 144.2px;
+        font-weight: 700;
+        font-size: 46px;
+        line-height: 101.38%;
+    }
+
+    p{ 
+        width: 264px;
+        height: 36px;
+        left: 71px;
+        top: 257px;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 150%;
+    }
+
+    .noroot{
+        width: 176.07px;
+        height: 206.18px;
+        left: 515.46px;
+        top: 138.99px;
+
+    }
+
+    .container{
+        width: 280.11px;
+        height: 115.83px;
+        left: 237.1px;
+        top: 395.92px;
+        border-radius: 5px;
+    }
+
+    .container_p{
+        width: 249.38px;
+        height: 65.45px;
+        left: 252.18px;
+        top: 407.08px;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 130%;
+    }
+
+    .container_h3{
+        width: 162.46px;
+        height: 26.43px;
+        left: 345.33px;
+        top: 481.12px;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 130%;
+    }
+
+    h2{
+        width: 386.3px;
+        height: 53.86px;
+        left: 70px;
+        top: 653px;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 101.38%;
+    }
+
+    ul{
+        width: 383.41px;
+        height: 216.61px;
+        left: 79.85px;
+        top: 719.03px;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 150%;
+    }
+
+    .footer_cont{
+        width: 834px;
+        height: 451.75px;
+        left: 0px;
+        top: 1082px;
+    }
+
+    .footer h1{
+        width: 525.88px;
+        height: 38.23px;
+        left: 70.66px;
+        top: 1185.67px;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 101.38%;
+    }
+
+    .footer p{
+        width: 98.46px;
+        height: 18.53px;
+        left: 70.66px;
+        top: 1255.17px;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 101.38%;
+    }
+
+    .price{
+        width: 278.58px;
+        height: 104.83px;
+        left: 70.66px;
+        top: 1272.55px;
+        font-weight: 400;
+        font-size: 46px;
+        line-height: 101.38%;
+    }
+
+    .left h3{
+            width: 278.58px;
+            height: 104.83px;
+            left: 70.66px;
+            top: 1272.55px;
+            font-weight: 400;
+            font-size: 46px;
+            line-height: 101.38%;
+        }
+
+    .left p{
+        width: 170.28px;
+        height: 40.54px;
+        left: 70.66px;
+        top: 1386.06px;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 101.38%;
+    }
+    
+    .right h3{
+        width: 186.49px;
+        height: 18.53px;
+        left: 281.47px;
+        top: 1362.32px;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 101.38%; 
+    }
+
+    .right p{
+        width: 170.28px;
+        height: 40.54px;
+        left: 281.47px;
+        top: 1386.06px;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 101.38%;
+    }
+}
+
+@media (min-width: 375px) and (max-width: 833px) {
+    .mob_logo{
+        width: 52.19px;
+        height: 30.75px;
+        left: 35px;
+        top: 36px;
+    }
+
+    .globe img{
+        width: 10.25px;
+        height: 9.79px;
+        left: 35px;
+        top: 111.95px;
+    }
+
+    .globe p{
+        width: 60.58px;
+        height: 14.91px;
+        left: 48.98px;
+        top: 111.35px;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 115%;
+    }
+        
+    .clock img{
+        width: 10.25px;
+        height: 10.25px;
+        left: 121.21px;
+        top: 111.49px;
+    }
+
+    .clock p{
+        width: 60.58px;
+        height: 14.91px;
+        left: 136.12px;
+        top: 111.35px;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 115%;
+    }
+
+    .calendar img{
+        width: 9.32px;
+        height: 10.25px;
+        left: 196.23px;
+        top: 111.49px;
+    }
+
+    .calendar p{
+        width: 60.58px;
+        height: 14.91px;
+        left: 211.6px;
+        top: 111.35px;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 115%;
+    }
+
+    h1{
+        width: 292.63px;
+        height: 88.53px;
+        left: 35.47px;
+        top: 134.32px;
+        font-weight: 700;
+        font-size: 37px;
+        line-height: 101.38%;
+    }
+
+    p{
+        width: 212.4px;
+        height: 28.96px;
+        left: 35.74px;
+        top: 225.07px;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 150%;
+    }
+
+    .noroot{
+        width: 141.68px;
+        height: 175.1px;
+        left: 201px;
+        top: 254px;
+    }
+
+    .container{
+        width: 225.36px;
+        height: 93.19px;
+        left: 37.98px;
+        top: 467.75px;
+    }
+
+    .container_p{
+        width: 200.64px;
+        height: 52.65px;
+        left: 50.11px;
+        top: 476.72px;
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 130%;
+    }
+
+    .container_h3{
+        width: 130.7px;
+        height: 21.27px;
+        left: 125.05px;
+        top: 536.29px;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 130%;
+    }
+
+    h2{
+        width: 310.8px;
+        height: 43.34px;
+        left: 36px;
+        top: 664px;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 101.38%;
+    }
+
+    ul{
+        width: 299px;
+        height: 174px;
+        left: 44px;
+        top: 717px;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 150%;
+    }
+
+    .footer_cont{
+        width: 671px;
+        height: 363.46px;
+        left: -18px;
+        top: 1046px;
+    }
+
+    .footer h1{
+        width: 224px;
+        height: 63px;
+        left: 39px;
+        top: 1108px;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 101.38%;
+    }
+
+    .footer p{
+        width: 79.22px;
+        height: 14.91px;
+        left: 38.85px;
+        top: 1193.33px;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 101.38%;
+    }
+
+    .price{
+        width: 224.13px;
+        height: 84.34px;
+        left: 38.85px;
+        top: 1207.3px;
+        font-weight: 400;
+        font-size: 37px;
+        line-height: 101.38%;
+    }
+
+    .left h3{
+        width: 137px;
+        height: 14.91px;
+        left: 39.85px;
+        top: 1279.53px;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 101.38%;
+    }
+
+    .left p{
+        width: 138px;
+        height: 47px;
+        left: 39px;
+        top: 1299px;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 101.38%;
+    }
+    
+    .right h3{
+        width: 151px;
+        height: 14px;
+        left: 208px;
+        top: 1280px;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 101.38%;
+    }
+
+    .right p{
+        width: 140px;
+        height: 38px;
+        left: 208px;
+        top: 1299px;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 101.38%;
+    }
+}
+.mob_logo{
+    position: absolute;
+    width: 112px;
+    height: 66px;
+    left: 121px;
+    top: 21px;
+}
+
+.globe img{
+    position: absolute;
+    width: 22px;
+    height: 21px;
+    left: 121px;
+    top: 197px;
+}
+
+.globe p{
+    position: absolute;
+    width: 130px;
+    height: 32px;
+    left: 151px;
+    top: 183px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 115%;
+}
+
+.clock img{
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    left: 306px;
+    top: 197px;
+}
+
+.clock p{
+    position: absolute;
+    width: 130px;
+    height: 32px;
+    left: 338px;
+    top: 183px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 115%;
+}
+
+.calendar img{
+    position: absolute;
+    width: 20px;
+    height: 22px;
+    left: 467px;
+    top: 197px;
+}
+
+.calendar p{
+    position: absolute;
+    width: 130px;
+    height: 32px;
+    left: 500px;
+    top: 183px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 115%;
+}
+
+h1{
+    position: absolute;
+    width: 628px;
+    height: 190px;
+    left: 122px;
+    top: 230px;
+
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 101.38%;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+p{
+    position: absolute;
+    width: 414px;
+    height: 62px;
+    left: 122px;
+    top: 450px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    color: #000000;
+}
+
+.noroot{
+    position: absolute;
+    width: 304px;
+    height: 356px;
+    left: 890px;
+    top: 223px;
+}
+
+.container{
+    position: absolute;
+    width: 483.63px;
+    height: 200px;
+    left: 409.39px;
+    top: 675.62px;
+
+    background: #1E4681;
+    border-radius: 5px;
+
+
+}
+.container_p{
+    position: absolute;
+    width: 430.59px;
+    height: 113px;
+    left: 435.42px;
+    top: 685.88px;
+    
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 130%;
+    
+    color: #FFFFFF;
+}
+
+.container_h3{
+    position: absolute;
+    width: 280.5px;
+    height: 45.64px;
+    left: 594px;
+    top: 821px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 130%;
+
+    text-align: right;
+
+    color: #FFFFFF;
+}
+
+h2{
+    position: absolute;
+    width: 667px;
+    height: 93px;
+    left: 132px;
+    top: 1000px;
+    
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 101.38%;
+}
+
+ul{
+    position: absolute;
+    width: 662px;
+    height: 374px;
+    left: 149px;
+    top: 1114px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 150%;
+}
+
+.footer_cont{
+    position:absolute;
+    width: 1440px;
+    height: 780px;
+    left: 0px;
+    top: 1674px;
+    
+    background: #9DC9C8;
+}
+
+.footer h1{
+    position: absolute;
+    width: 908px;
+    height: 66px;
+    left: 122px;
+    top: 1853px;
+    
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 101.38%;
+}
+
+.footer p{
+    position: absolute;
+    width: 170px;
+    height: 32px;
+    left: 122px;
+    top: 1973px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 101.38%;
+}
+
+.price{
+    position: absolute;
+    width: 481px;
+    height: 181px;
+    left: 122px;
+    top: 1943px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 101.38%;
+}
+
+.left p{
+    position: absolute;
+    width: 294px;
+    height: 70px;
+    left: 122px;
+    top: 2199px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 101.38%;
+}
+
+.left h3{
+    position: absolute;
+    width: 294px;
+    height: 32px;
+    left: 122px;
+    top: 2158px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 101.38%;
+}
+
+.right h3{
+    position: absolute;
+    width: 322px;
+    height: 32px;
+    left: 486px;
+    top: 2158px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 101.38%;
+}
+
+.right p{
+    position: absolute;
+    width: 294px;
+    height: 70px;
+    left: 486px;
+    top: 2199px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 101.38%;
+}
